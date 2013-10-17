@@ -47,6 +47,9 @@ grails.project.dependency.resolution = {
     }
 
     dependencies {
+
+        //runtime ('org.lesscss:lesscss:1.3.3')
+        //ompile 'twitter-typeahead:0.9.3.1'
         //compile 'twitter-bootstrap:3.0.0'
         // specify dependencies here under either 'build', 'compile', 'runtime', 'test' or 'provided' scopes e.g.
         // runtime 'mysql:mysql-connector-java:5.1.24'
@@ -60,6 +63,7 @@ grails.project.dependency.resolution = {
         compile ":scaffolding:2.0.0"
         compile ':cache:1.1.1'
         compile ":lesscss-resources:1.3.3"
+        compile ":twitter-typeahead:0.9.3.1"
         // plugins needed at runtime but not for compilation
         runtime ":hibernate:3.6.10.1" // or ":hibernate4:4.1.11.1"
         runtime ":database-migration:1.3.5"

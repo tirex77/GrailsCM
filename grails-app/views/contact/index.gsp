@@ -2,10 +2,11 @@
 <html xmlns="http://www.w3.org/1999/html" xmlns="http://www.w3.org/1999/html">
 	<head>
         <meta name="layout" content="main"/>
-        <link href="/css/bootstrap.css" rel="stylesheet">
+
         <!-- Custom styles for this template -->
-        <link href="/css/starter-template.css" rel="stylesheet">
-	</head>
+        %{--<link href="/css/starter-template.css" rel="stylesheet">--}%
+
+    </head>
 	<body>
     <div class="navbar navbar-inverse navbar-fixed-top">
         <div class="container">
@@ -30,8 +31,29 @@
     <div class="container">
 
         <div class="starter-template">
-            <h1>Bootstrap starter template</h1>
-            <p class="lead">Use this document as a way to quickly start any new project.<br> All you get is this text and a mostly barebones HTML document.</p>
+
+            <p class="label">Use this document as a way to quickly start any new project.<br> All you get is this text and a mostly barebones HTML document.
+            Use this document as a way to quickly start any new project.<br> All you get is this text and a mostly barebones HTML document.
+            Use this document as a way to quickly start any new project.<br> All you get is this text and a mostly barebones HTML document.
+            Use this document as a way to quickly start any new project.<br> All you get is this text and a mostly barebones HTML document.
+            Use this document as a way to quickly start any new project.<br> All you get is this text and a mostly barebones HTML document.
+            Use this document as a way to quickly start any new project.<br> All you get is this text and a mostly barebones HTML document.
+            Use this document as a way to quickly start any new project.<br> All you get is this text and a mostly barebones HTML document.
+            Use this document as a way to quickly start any new project.<br> All you get is this text and a mostly barebones HTML document.
+            Use this document as a way to quickly start any new project.<br> All you get is this text and a mostly barebones HTML document.
+            Use this document as a way to quickly start any new project.<br> All you get is this text and a mostly barebones HTML document.
+            Use this document as a way to quickly start any new project.<br> All you get is this text and a mostly barebones HTML document.
+            Use this document as a way to quickly start any new project.<br> All you get is this text and a mostly barebones HTML document.
+            Use this document as a way to quickly start any new project.<br> All you get is this text and a mostly barebones HTML document.
+            Use this document as a way to quickly start any new project.<br> All you get is this text and a mostly barebones HTML document.
+            Use this document as a way to quickly start any new project.<br> All you get is this text and a mostly barebones HTML document.
+            Use this document as a way to quickly start any new project.<br> All you get is this text and a mostly barebones HTML document.
+            Use this document as a way to quickly start any new project.<br> All you get is this text and a mostly barebones HTML document.
+            Use this document as a way to quickly start any new project.<br> All you get is this text and a mostly barebones HTML document.
+            Use this document as a way to quickly start any new project.<br> All you get is this text and a mostly barebones HTML document.
+            Use this document as a way to quickly start any new project.<br> All you get is this text and a mostly barebones HTML document.
+            Use this document as a way to quickly start any new project.<br> All you get is this text and a mostly barebones HTML document.
+            </p>
         </div>
 
     </div>
