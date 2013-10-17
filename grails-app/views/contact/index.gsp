@@ -5,10 +5,10 @@
 
         <!-- Custom styles for this template -->
         %{--<link href="/css/starter-template.css" rel="stylesheet">--}%
-
+        <link href="/css/sticky-footer.css" rel="stylesheet">
     </head>
 	<body>
-    <div class="navbar navbar-inverse navbar-fixed-top">
+    <div class="navbar navbar-default navbar-fixed-top">
         <div class="container">
             <div class="navbar-header">
                 <button type="button" class="navbar-toggle" data-toggle="collapse" data-target=".navbar-collapse">
@@ -32,7 +32,7 @@
 
         <div class="starter-template">
 
-            <p class="label">Use this document as a way to quickly start any new project.<br> All you get is this text and a mostly barebones HTML document.
+            <p class="lead">Use this document as a way to quickly start any new project.<br> All you get is this text and a mostly barebones HTML document.
             Use this document as a way to quickly start any new project.<br> All you get is this text and a mostly barebones HTML document.
             Use this document as a way to quickly start any new project.<br> All you get is this text and a mostly barebones HTML document.
             Use this document as a way to quickly start any new project.<br> All you get is this text and a mostly barebones HTML document.
@@ -57,7 +57,16 @@
         </div>
 
     </div>
+
+    <div id="footer">
+        <div class="container">
+            <p class="text-muted credit">Example courtesy <a href="http://martinbean.co.uk">Martin Bean</a> and <a
+                    href="http://ryanfait.com/sticky-footer/">Ryan Fait</a>.</p>
+        </div>
+    </div>
+
+
     <script src="/js/bootstrap.min.js"></script>
-    <script src="//code.jquery.com/jquery.js"></script>
-	</body>
+    %{--<script src="//code.jquery.com/jquery.js"></script>--}%
+    </body>
 </html>
