@@ -4,6 +4,7 @@
 		<meta name="layout" content="main">
 		<g:set var="entityName" value="${message(code: 'contact.label', default: 'Contact')}" />
 		<title><g:message code="default.create.label" args="[entityName]" /></title>
+		<r:require modules="bootstrap"/>
 	</head>
 	<body>
 		<a href="#create-contact" class="skip" tabindex="-1"><g:message code="default.link.skip.label" default="Skip to content&hellip;"/></a>
